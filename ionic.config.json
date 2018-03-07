@@ -1,0 +1,8 @@
+{
+  "name": "ionstore2",
+  "app_id": "9d8ab2d4",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
